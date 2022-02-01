@@ -1,8 +1,8 @@
 # Feature Based Learning
 
-![fbl1](https://user-images.githubusercontent.com/65457437/151771823-7f7d3001-e661-4652-a223-a123e938fe08.png)
+![![image](https://user-images.githubusercontent.com/65457437/151946601-7f576eee-5f2c-4de2-aa70-da713774fd64.png)
 
 </br></br>
-Root Mean Squared error:  0.1328734999105854704387</br></br></br>
-36 42 53 33 61 30 72 77 47 69 139 13 82 40 46 25 65 62 80 53 
+Root Mean Squared error:  0.0636378032</br></br></br>
+21 4 3 12 22 2 2 2 14 2 2 31 34 28 3 
 
