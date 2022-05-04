@@ -1,0 +1,54 @@
+
+ Object 1 
+time taken by FBL: 0:00:06.891238 
+Root Mean Squared error: 0.07535720277692128
+time taken by catboost: 0:00:02.534616 
+Root Mean Squared error: 0.0727641150568502
+
+ Object 2 
+time taken by FBL: 0:00:07.891909 
+Root Mean Squared error: 0.08009691127900352
+time taken by catboost: 0:00:02.509630 
+Root Mean Squared error: 0.08176728382761463
+
+ Object 3 
+time taken by FBL: 0:00:07.914623 
+Root Mean Squared error: 0.08441207717066038
+time taken by catboost: 0:00:02.601044 
+Root Mean Squared error: 0.0822012986001506
+
+ Object 4 
+time taken by FBL: 0:00:07.106320 
+Root Mean Squared error: 0.08401096391811569
+time taken by catboost: 0:00:02.520096 
+Root Mean Squared error: 0.09370181226611905
+
+ Object 5 
+time taken by FBL: 0:00:07.438029 
+Root Mean Squared error: 0.08566613906120563
+time taken by catboost: 0:00:02.605268 
+Root Mean Squared error: 0.08512552805121325
+
+ Object 6 
+time taken by FBL: 0:00:06.861298 
+Root Mean Squared error: 0.09771052842564498
+time taken by catboost: 0:00:02.620688 
+Root Mean Squared error: 0.09505281777635594
+
+ Object 7 
+time taken by FBL: 0:00:07.956373 
+Root Mean Squared error: 0.10231531558173233
+time taken by catboost: 0:00:02.500775 
+Root Mean Squared error: 0.10003909895941183
+
+ Object 8 
+time taken by FBL: 0:00:07.376947 
+Root Mean Squared error: 0.09697083929009886
+time taken by catboost: 0:00:02.495706 
+Root Mean Squared error: 0.09749072682244467
+
+ Object 9 
+time taken by FBL: 0:00:07.816779 
+Root Mean Squared error: 0.10995737333403036
+time taken by catboost: 0:00:02.555297 
+Root Mean Squared error: 0.1078195837150226
