@@ -1,0 +1,46 @@
+Feature Based Learning on Deformation Data
+
+
+Object-1
+time taken by catboost: 0:00:04.557106 
+Root Mean Squared error: 0.058597423275546186
+
+
+Object-2
+time taken by catboost: 0:00:04.736306 
+Root Mean Squared error: 0.07758850974250091
+
+
+Object-3
+time taken by catboost: 0:00:05.010592 
+Root Mean Squared error: 0.06865671195194692
+
+
+Object-4
+time taken by catboost: 0:00:04.609863 
+Root Mean Squared error: 0.07615829929896693
+
+
+Object-5
+time taken by catboost: 0:00:04.681348 
+Root Mean Squared error: 0.07160039011493333
+
+
+Object-6
+time taken by catboost: 0:00:06.222838 
+Root Mean Squared error: 0.07815983441384043
+
+
+Object-7
+time taken by catboost: 0:00:04.990719 
+Root Mean Squared error: 0.09258241278387304
+
+
+Object-8
+time taken by catboost: 0:00:04.508035 
+Root Mean Squared error: 0.08421509450008272
+
+
+Object-9
+time taken by catboost: 0:00:04.628319 
+Root Mean Squared error: 0.09129931345523795
