@@ -1,0 +1,108 @@
+DEFORMATION DATA
+
+
+Sampling Percentage-5%
+
+Object-1
+time taken by catboost: 0:00:03.473791 
+Root Mean Squared error: 0.04915896345159379
+
+
+Object-5
+time taken by catboost: 0:00:02.561926 
+Root Mean Squared error: 0.06251553320228588
+
+
+Object-9
+time taken by catboost: 0:00:02.363575 
+Root Mean Squared error: 0.07651627413419626
+
+
+
+Sampling Percentage-10%
+
+Object-1
+time taken by catboost: 0:00:03.369093 
+Root Mean Squared error: 0.046160586500071744
+
+
+Object-5
+time taken by catboost: 0:00:03.283945 
+Root Mean Squared error: 0.061726253110304774
+
+
+Object-9
+time taken by catboost: 0:00:03.170798 
+Root Mean Squared error: 0.07608574196104877
+
+
+
+Sampling Percentage-20%
+
+Object-1
+time taken by catboost: 0:00:04.597846 
+Root Mean Squared error: 0.0458443321696682
+
+
+Object-5
+time taken by catboost: 0:00:04.412123 
+Root Mean Squared error: 0.06178232584049225
+
+
+Object-9
+time taken by catboost: 0:00:04.201436 
+Root Mean Squared error: 0.07704933691418189
+
+
+
+Sampling Percentage-30%
+
+Object-1
+time taken by catboost: 0:00:05.829550 
+Root Mean Squared error: 0.04561622727033491
+
+
+Object-5
+time taken by catboost: 0:00:06.355223 
+Root Mean Squared error: 0.06479845089134212
+
+
+Object-9
+time taken by catboost: 0:00:05.586460 
+Root Mean Squared error: 0.07998143178711901
+
+
+
+Sampling Percentage-50%
+
+Object-1
+time taken by catboost: 0:00:07.711071 
+Root Mean Squared error: 0.04468160732615191
+
+
+Object-5
+time taken by catboost: 0:00:07.493974 
+Root Mean Squared error: 0.06363792170748046
+
+
+Object-9
+time taken by catboost: 0:00:07.474858 
+Root Mean Squared error: 0.07833439092039918
+
+
+
+Sampling Percentage-100%
+
+Object-1
+time taken by catboost: 0:00:13.144073 
+Root Mean Squared error: 0.04405738005758633
+
+
+Object-5
+time taken by catboost: 0:00:12.547296 
+Root Mean Squared error: 0.06276612291396239
+
+
+Object-9
+time taken by catboost: 0:00:12.467661 
+Root Mean Squared error: 0.07685319578562731

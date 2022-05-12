@@ -1,0 +1,108 @@
+INDENT DATA
+
+
+Sampling Percentage-5%
+
+Object-1
+time taken by catboost: 0:00:02.786950 
+Root Mean Squared error: 0.059607148133779264
+
+
+Object-5
+time taken by catboost: 0:00:02.519569 
+Root Mean Squared error: 0.05463740576160116
+
+
+Object-9
+time taken by catboost: 0:00:02.456317 
+Root Mean Squared error: 0.07482308039531434
+
+
+
+Sampling Percentage-10%
+
+Object-1
+time taken by catboost: 0:00:03.595096 
+Root Mean Squared error: 0.05353195040842019
+
+
+Object-5
+time taken by catboost: 0:00:03.494525 
+Root Mean Squared error: 0.053503308437091716
+
+
+Object-9
+time taken by catboost: 0:00:03.564536 
+Root Mean Squared error: 0.07287455443773713
+
+
+
+Sampling Percentage-20%
+
+Object-1
+time taken by catboost: 0:00:05.019661 
+Root Mean Squared error: 0.05223014664393908
+
+
+Object-5
+time taken by catboost: 0:00:04.770172 
+Root Mean Squared error: 0.05335993208270951
+
+
+Object-9
+time taken by catboost: 0:00:04.647536 
+Root Mean Squared error: 0.07241216506972782
+
+
+
+Sampling Percentage-30%
+
+Object-1
+time taken by catboost: 0:00:08.125656 
+Root Mean Squared error: 0.051064211208395424
+
+
+Object-5
+time taken by catboost: 0:00:07.668220 
+Root Mean Squared error: 0.05287860671504827
+
+
+Object-9
+time taken by catboost: 0:00:06.454836 
+Root Mean Squared error: 0.0726458554040395
+
+
+
+Sampling Percentage-50%
+
+Object-1
+time taken by catboost: 0:00:08.800111 
+Root Mean Squared error: 0.050632045358897246
+
+
+Object-5
+time taken by catboost: 0:00:11.155570 
+Root Mean Squared error: 0.053462562819060526
+
+
+Object-9
+time taken by catboost: 0:00:08.674938 
+Root Mean Squared error: 0.07308191382175434
+
+
+
+Sampling Percentage-100%
+
+Object-1
+time taken by catboost: 0:00:15.249233 
+Root Mean Squared error: 0.05055947631964696
+
+
+Object-5
+time taken by catboost: 0:00:15.408919 
+Root Mean Squared error: 0.054021393868727945
+
+
+Object-9
+time taken by catboost: 0:00:14.094037 
+Root Mean Squared error: 0.07260316559733446

@@ -1,0 +1,45 @@
+
+
+Object-1
+time taken by catboost: 0:00:03.367249 
+Root Mean Squared error: 0.04858411236318651
+
+
+Object-2
+time taken by catboost: 0:00:02.885308 
+Root Mean Squared error: 0.04844182359728146
+
+
+Object-3
+time taken by catboost: 0:00:02.933701 
+Root Mean Squared error: 0.047627935806481204
+
+
+Object-4
+time taken by catboost: 0:00:02.843058 
+Root Mean Squared error: 0.044264806598108684
+
+
+Object-5
+time taken by catboost: 0:00:02.760040 
+Root Mean Squared error: 0.051183170765589925
+
+
+Object-6
+time taken by catboost: 0:00:02.726153 
+Root Mean Squared error: 0.060320327611629775
+
+
+Object-7
+time taken by catboost: 0:00:02.796039 
+Root Mean Squared error: 0.062031114053520846
+
+
+Object-8
+time taken by catboost: 0:00:03.313537 
+Root Mean Squared error: 0.05868613695563394
+
+
+Object-9
+time taken by catboost: 0:00:02.727532 
+Root Mean Squared error: 0.07329494647464735

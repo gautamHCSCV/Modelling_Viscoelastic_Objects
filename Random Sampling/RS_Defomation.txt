@@ -1,0 +1,90 @@
+
+
+Object-1
+time taken by catboost: 0:00:04.627024 
+Root Mean Squared error: 0.046160586500071744
+
+
+Object-2
+time taken by catboost: 0:00:04.650826 
+Root Mean Squared error: 0.050538743580570346
+
+
+Object-3
+time taken by catboost: 0:00:04.660675 
+Root Mean Squared error: 0.054679621296220095
+
+
+Object-4
+time taken by catboost: 0:00:04.604155 
+Root Mean Squared error: 0.06107739185589409
+
+
+Object-5
+time taken by catboost: 0:00:04.512535 
+Root Mean Squared error: 0.061726253110304774
+
+
+Object-6
+time taken by catboost: 0:00:04.509536 
+Root Mean Squared error: 0.07585916226177954
+
+
+Object-7
+time taken by catboost: 0:00:04.535603 
+Root Mean Squared error: 0.06982225032639665
+
+
+Object-8
+time taken by catboost: 0:00:04.386686 
+Root Mean Squared error: 0.08018116807912624
+
+
+Object-9
+time taken by catboost: 0:00:04.432623 
+Root Mean Squared error: 0.07608574196104877
+
+
+Object-1
+time taken by catboost: 0:00:03.288968 
+Root Mean Squared error: 0.046160586500071744
+
+
+Object-2
+time taken by catboost: 0:00:03.236696 
+Root Mean Squared error: 0.050538743580570346
+
+
+Object-3
+time taken by catboost: 0:00:03.259600 
+Root Mean Squared error: 0.054679621296220095
+
+
+Object-4
+time taken by catboost: 0:00:03.216200 
+Root Mean Squared error: 0.06107739185589409
+
+
+Object-5
+time taken by catboost: 0:00:03.239730 
+Root Mean Squared error: 0.061726253110304774
+
+
+Object-6
+time taken by catboost: 0:00:03.511263 
+Root Mean Squared error: 0.07585916226177954
+
+
+Object-7
+time taken by catboost: 0:00:03.152865 
+Root Mean Squared error: 0.06982225032639665
+
+
+Object-8
+time taken by catboost: 0:00:03.084161 
+Root Mean Squared error: 0.08018116807912624
+
+
+Object-9
+time taken by catboost: 0:00:03.048706 
+Root Mean Squared error: 0.07608574196104877
