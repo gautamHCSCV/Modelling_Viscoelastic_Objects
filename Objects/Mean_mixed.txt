@@ -1,0 +1,27 @@
+Object-1
+Mean error: 0.05658837237587863
+
+Object-2
+Mean error: 0.05559722222222222
+
+Object-3
+Mean error: 0.057945437641124954
+
+Object-4
+Mean error: 0.05992665295564381
+
+Object-5
+Mean error: 0.06551046789815133
+
+Object-6
+Mean error: 0.06710614005141004
+
+Object-7
+Mean error: 0.07249651843624316
+
+Object-8
+Mean error: 0.07786364783085269
+
+Object-9
+Mean error: 0.08252963894267552
+
