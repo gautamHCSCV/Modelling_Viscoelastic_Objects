@@ -1,0 +1,18 @@
+Frequency-25 Hz
+Error: 0.06276 
+
+Frequency-50 Hz
+Error: 0.06498 
+
+Frequency-75 Hz
+Error: 0.06583 
+
+Frequency-100 Hz
+Error: 0.06665 
+
+Frequency-125 Hz
+Error: 0.06639 
+
+Frequency-150 Hz
+Error: 0.06592 
+
