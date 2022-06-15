@@ -1,0 +1,21 @@
+
+Cutoff Frequency: 5Hz
+Root Mean Squared error: 0.06267845639103879
+
+Cutoff Frequency: 10Hz
+Root Mean Squared error: 0.060548231563617244
+
+Cutoff Frequency: 15Hz
+Root Mean Squared error: 0.06047769222795117
+
+Cutoff Frequency: 20Hz
+Root Mean Squared error: 0.06156554271204683
+
+Cutoff Frequency: 40Hz
+Root Mean Squared error: 0.06312100544850928
+
+Cutoff Frequency: 60Hz
+Root Mean Squared error: 0.06432433148471188
+
+Cutoff Frequency: 90Hz
+Root Mean Squared error: 0.06465719963000596
