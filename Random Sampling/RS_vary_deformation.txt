@@ -1,0 +1,48 @@
+
+Sampling Percentage: 1%
+
+
+Object-1
+time taken by catboost: 0:00:02.468123 
+Root Mean Squared error: 0.05955249036081616
+
+
+Object-9
+time taken by catboost: 0:00:02.366568 
+Root Mean Squared error: 0.10044570725003556
+
+Sampling Percentage: 2%
+
+
+Object-1
+time taken by catboost: 0:00:02.883924 
+Root Mean Squared error: 0.051041515867840434
+
+
+Object-9
+time taken by catboost: 0:00:02.684535 
+Root Mean Squared error: 0.07708465983640576
+
+Sampling Percentage: 5%
+
+
+Object-1
+time taken by catboost: 0:00:03.555469 
+Root Mean Squared error: 0.04915896345159379
+
+
+Object-9
+time taken by catboost: 0:00:03.264287 
+Root Mean Squared error: 0.07651627413419626
+
+Sampling Percentage: 10%
+
+
+Object-1
+time taken by catboost: 0:00:04.663236 
+Root Mean Squared error: 0.046160586500071744
+
+
+Object-9
+time taken by catboost: 0:00:04.340333 
+Root Mean Squared error: 0.07608574196104877
