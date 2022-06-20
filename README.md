@@ -3,5 +3,4 @@ Data-Driven Haptic Modeling of Normal Interactions on Viscoelastic Deformable Ob
 
 
 
-
-
+[feature_importance_cat.pdf](https://github.com/gautamHCSCV/Modelling_Viscoelastic_Objects/files/8940560/feature_importance_cat.pdf)
