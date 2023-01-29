@@ -1,0 +1,72 @@
+
+Object:1
+Relative Root Mean Squared error: 0.15632469840815716
+Time taken:0:00:22.985296
+Maximum Error:[2.07311423]
+  Standard deviation:0.13860616907404635
+  Mean Absolute error:0.12984901688689207
+
+
+Object:2
+Relative Root Mean Squared error: 0.0723051404116676
+Time taken:0:00:20.539788
+Maximum Error:[1.0624071]
+  Standard deviation:0.06393903916341363
+  Mean Absolute error:0.15462399232462432
+
+
+Object:3
+Relative Root Mean Squared error: 0.0729216431519684
+Time taken:0:00:20.233536
+Maximum Error:[0.91807394]
+  Standard deviation:0.0723279127863424
+  Mean Absolute error:0.14853877860635292
+
+
+Object:4
+Relative Root Mean Squared error: 0.04724827410181484
+Time taken:0:00:18.910631
+Maximum Error:[0.37642437]
+  Standard deviation:0.043695823241956505
+  Mean Absolute error:0.17483200940834207
+
+
+Object:5
+Relative Root Mean Squared error: 0.05106155719392321
+Time taken:0:00:19.395041
+Maximum Error:[0.42428646]
+  Standard deviation:0.049669898449688304
+  Mean Absolute error:0.17069090410506757
+
+
+Object:6
+Relative Root Mean Squared error: 0.057240031042899785
+Time taken:0:00:20.280564
+Maximum Error:[0.38467221]
+  Standard deviation:0.05205548422833001
+  Mean Absolute error:0.15513564302589725
+
+
+Object:7
+Relative Root Mean Squared error: 0.054801852669127085
+Time taken:0:00:20.711747
+Maximum Error:[2.07072931]
+  Standard deviation:0.052989602035457474
+  Mean Absolute error:0.20219190940119433
+
+
+Object:8
+Relative Root Mean Squared error: 0.05604614578379322
+Time taken:0:00:20.253040
+Maximum Error:[0.45925849]
+  Standard deviation:0.0518972017513146
+  Mean Absolute error:0.17063377668388902
+
+
+Object:9
+Relative Root Mean Squared error: 0.06542764273385908
+Time taken:0:00:20.399725
+Maximum Error:[0.35919823]
+  Standard deviation:0.05798922834756167
+  Mean Absolute error:0.26749208562938814
+
